@@ -3,5 +3,5 @@
 ### This is a sample page, folks!! ###
 
 git add . <br>
-git commmit -m "message"
-git push -u origin BranchName
+git commit -m "message" <br>
+git push -u origin BranchName <br>
